@@ -3,3 +3,6 @@
 저장 단축기 : ctrl + sgit init
 git config --global user.name "janghawon"
 git config --global user.email "cocoacake84@gmail.com"
+두번쨰로 수정을 해봅시다.
+dkanrjsk dkanrjskl
+git
