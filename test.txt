@@ -1,0 +1,5 @@
+안녕하세요
+꿜뚫쒥뤩
+저장 단축기 : ctrl + sgit init
+git config --global user.name "janghawon"
+git config --global user.email "cocoacake84@gmail.com"
